@@ -1,0 +1,20 @@
+{
+  "name": "uodn-bot",
+  "version": "1.0.0",
+  "description": "This is a bot for servers in the DNTO, which is something you don't need to worry about until you're a little bit older",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg": "^0.0.4",
+    "node": "^11.2.0",
+    "node-schedule": "^1.2.5",
+    "require-dir": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
